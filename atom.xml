@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wh-it.github.io/</id>
     <title>wh-it</title>
-    <updated>2021-09-29T08:38:07.445Z</updated>
+    <updated>2021-09-30T10:21:43.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wh-it.github.io/"/>
     <link rel="self" href="https://wh-it.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://wh-it.github.io/images/avatar.png</logo>
     <icon>https://wh-it.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, wh-it</rights>
+    <entry>
+        <title type="html"><![CDATA[一款多功能工具箱合集【爆赞】]]></title>
+        <id>https://wh-it.github.io/post/yi-kuan-duo-gong-neng-gong-ju-xiang-he-ji-bao-zan/</id>
+        <link href="https://wh-it.github.io/post/yi-kuan-duo-gong-neng-gong-ju-xiang-he-ji-bao-zan/">
+        </link>
+        <updated>2021-09-30T10:16:36.000Z</updated>
+        <content type="html"><![CDATA[<p>逛过百度贴吧的电脑爱好者</p>
+<p>大多听过图吧（图拉丁吧）</p>
+<p>那是 DIY 爱好者聚集地</p>
+<blockquote>
+<p>图拉丁吧是一个名为图拉丁的百度贴吧，是一个 DIY 爱好者聚集地，简称图吧，其名字起源于一种 CPU &gt;核心图拉丁 。常驻人员一般称为图丁（图钉），因长期专注于 DIY；经常对进行硬件改造；喜好各类二手&gt;硬件及古老配置，图钉们又被戏称为收破烂的垃圾佬（图吧垃圾佬）。——百度百科</p>
+</blockquote>
+<p>大佬们制作的工具箱合集—— 图吧工具箱（开源软件）<br>
+<img src="https://wh-it.github.io//post-images/1632997193056.png" alt="" loading="lazy"></p>
+<p>软件官网：www.tbtool.cn</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Office软件安装与激活]]></title>
         <id>https://wh-it.github.io/post/office-ruan-jian-an-zhuang-yu-ji-huo/</id>
